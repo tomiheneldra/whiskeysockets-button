@@ -1,7 +1,7 @@
 {
-  "name": "@ryuu-reinzz/button-helper",
+  "name": "@tomiheneldra/whiskeysockets-button",
   "version": "2.2.3",
-  "description": "This is a plugin to make baileys more interactive",
+  "description": "Button Helper for WhiskeySockets / Baileys - Backup @ryuu-reinzz/button-helper",
   "homepage": "https://scratchive.com",
   "keywords": [
     "Baileys",
@@ -16,7 +16,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehebub648/Scratchive-Module-BaileysHelper.git"
+    "url": "https://github.com/tomiheneldra/whiskeysockets-button.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
